@@ -1,5 +1,8 @@
 +++
-title = "L'élevage de chèvres, la carrière alternative de tous dévelopeurs'"
-slug = "élevage-chèvre-carrière-alternative"
+title = "Landing"
+description = "Landing Page"
+
+[extra]
 +++
-This is my article.
+
+Some content
