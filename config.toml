@@ -1,0 +1,9 @@
+base_url = "https://nf3xn.github.io"
+theme = 'after-dark'
+compile_sass = true
+build_search_index = false
+
+[markdown]
+highlight_code = false
+
+[extra]
